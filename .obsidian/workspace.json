@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dc12381ce1a7f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Module 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
+                "file": "Week 1/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md"
+                "file": "Week 1/Module 1.md"
               }
             }
           },
@@ -201,8 +213,9 @@
   },
   "active": "17069eb41db3a74b",
   "lastOpenFiles": [
-    "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/2.Supervised learning part 2.md",
     "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
     "Week 1/C1_W1.pdf",
     "Week 1/Supervised vs. Unsupervised Machine Learning",
     "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
@@ -246,7 +259,6 @@
     "URC-2023 🙂/Train A Model Under 3 Minutes.md",
     "URC-2023 🙂/Zed Cam And ROS.md",
     "URC-2023 🙂/Repo Links.md",
-    "Day Planners/Day Planner-20230301.md",
-    "AWS AI & ML scholarship program/3. Examples of machine learning/3.3 Using ML to detect spills.md"
+    "Day Planners/Day Planner-20230301.md"
   ]
 }
