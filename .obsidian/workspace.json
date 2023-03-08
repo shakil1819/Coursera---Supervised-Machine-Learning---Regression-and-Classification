@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "0a3cbf338500237b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe74447f890ff5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0146e8deacee348d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Details/Course.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2701765f6c94a675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48bfc80c7149de64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c94b773660d072d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9991b175102d556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17069eb41db3a74b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c732d7db76a1979",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "reinforcement",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1665f4d8de82a923",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "c5a2767459af39e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a509bc9db85026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc3f3052091c592",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 1/Syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df6e06dd02d11f06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hacking/01 HTB/Academy/00. Intro to Academy/Intro to Academy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eee1945a64c16b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3a7096e21ad160a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 1/Syllabus.md"
+              }
+            }
+          },
+          {
+            "id": "56342dc10f14b9d7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3805fec301fb185d",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "27b5b2a4fce9f12b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "646d263f94d5acf2",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "17069eb41db3a74b",
+  "lastOpenFiles": [
+    "Coursera-Supervised-Machine-Learning--Regression-and-Classification",
+    "Week 1/Untitled.md",
+    "Week 1/Syllabus.md",
+    "Week 1/attachments/Pasted image 20230308191104.png",
+    "Week 1/attachments",
+    "Details/Course.md",
+    "Week 1",
+    "Details/attachments/Pasted image 20230308191000.png",
+    "Details/attachments",
+    "Untitled/Untitled.md",
+    "Details",
+    "Day Planners/Day Planner-20230308.md",
+    "Day Planners",
+    "Day Planners/Day Planner-20230307.md",
+    "Resource Collections/Backup February - 2023.md",
+    "URC-2023 🙂/Sequel.md",
+    "URC-2023 🙂/attachments/Pasted image 20230307203732.png",
+    "URC-2023 🙂/attachments/Pasted image 20230307203531.png",
+    "Day Planners/Day Planner-20230306.md",
+    "Day Planners/attachments/Pasted image 20230306162953.png",
+    "Land Cover Gaofen Paper/Literature review.md",
+    "Land Cover Gaofen Paper/Paper.md",
+    "Day Planners/attachments/E‑Passport Online Registration Portal.pdf",
+    "Day Planners/attachments/download-online-form.pdf",
+    "Day Planners/attachments/Gmail - Confirmation of submitted online registration (online payment).pdf",
+    "Day Planners/attachments/Pasted image 20230306163006.png",
+    "Day Planners/attachments/Pasted image 20230306155226.png",
+    "Day Planners/attachments/Pasted image 20230306155320.png",
+    "Day Planners/attachments/Pasted image 20230306160155.png",
+    "Day Planners/attachments/Pasted image 20230306160603.png",
+    "Day Planners/Passport.md",
+    "Day Planners/Day Planner-20230305.md",
+    "Land Cover Gaofen Paper/Initial Meeting.md",
+    "Land Cover Gaofen Paper/attachments/Land_Cover_DeepLabV3_sent_by_ovi.pdf",
+    "Land Cover Gaofen Paper/attachments/LULC classification by semantic segmentation of.pdf",
+    "URC-2023 🙂/Nvidia Jetson Nano.md",
+    "URC-2023 🙂/Train A Model Under 3 Minutes.md",
+    "URC-2023 🙂/Zed Cam And ROS.md",
+    "URC-2023 🙂/Repo Links.md",
+    "Day Planners/Day Planner-20230301.md",
+    "AWS AI & ML scholarship program/3. Examples of machine learning/3.3 Using ML to detect spills.md",
+    "AWS AI & ML scholarship program/3. Examples of machine learning/3.2 Using ML to predict a book's genre.md",
+    "AWS AI & ML scholarship program/3. Examples of machine learning/3.1 Case studies that use machine learning.md",
+    "AWS AI & ML scholarship program/2. The five steps of machine learning/2.5 Model evaluation.md",
+    "AWS AI & ML scholarship program/2. The five steps of machine learning/2.4 Model training.md",
+    "AWS AI & ML scholarship program/2. The five steps of machine learning/2.1 Introduction to the five machine learning steps.md"
+  ]
+}
