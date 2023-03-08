@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0146e8deacee348d",
+            "id": "22f7fb257ef3f7e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Details/Course.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2701765f6c94a675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Module 1.md",
+                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bba6b16c97d2b77b",
+            "id": "cc322c26412fb30a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Overview of Machine Learning/0.Welcome to machine learning !.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b5fdf11fe7c5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eb124dfcd9bf7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Details/Course.md",
+                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Details/Course.md",
+                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Details/Course.md"
+                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md"
               }
             }
           },
@@ -235,16 +199,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3eb124dfcd9bf7b4",
+  "active": "17069eb41db3a74b",
   "lastOpenFiles": [
+    "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
     "Week 1/C1_W1.pdf",
+    "Week 1/Supervised vs. Unsupervised Machine Learning",
+    "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
+    "Details/Course.md",
     "Week 1/Overview of Machine Learning/3.Intake Survey.md",
     "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221402.png",
     "Week 1/Overview of Machine Learning/Untitled.md",
     "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221207.png",
     "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221044.png",
     "Week 1/Overview of Machine Learning/attachments",
-    "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
     "Week 1/Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Week 1/Syllabus.md",
     "Week 1/Overview of Machine Learning",
@@ -254,7 +222,6 @@
     "Coursera-Supervised-Machine-Learning--Regression-and-Classification",
     "Week 1/attachments/Pasted image 20230308191104.png",
     "Week 1/attachments",
-    "Details/Course.md",
     "Week 1",
     "Details/attachments/Pasted image 20230308191000.png",
     "Details/attachments",
@@ -271,8 +238,6 @@
     "Day Planners/attachments/Pasted image 20230306162953.png",
     "Land Cover Gaofen Paper/Literature review.md",
     "Land Cover Gaofen Paper/Paper.md",
-    "Day Planners/attachments/E‑Passport Online Registration Portal.pdf",
-    "Day Planners/attachments/download-online-form.pdf",
     "Day Planners/attachments/Pasted image 20230306163006.png",
     "Day Planners/Passport.md",
     "Day Planners/Day Planner-20230305.md",
@@ -282,7 +247,6 @@
     "URC-2023 🙂/Zed Cam And ROS.md",
     "URC-2023 🙂/Repo Links.md",
     "Day Planners/Day Planner-20230301.md",
-    "AWS AI & ML scholarship program/3. Examples of machine learning/3.3 Using ML to detect spills.md",
-    "AWS AI & ML scholarship program/3. Examples of machine learning/3.2 Using ML to predict a book's genre.md"
+    "AWS AI & ML scholarship program/3. Examples of machine learning/3.3 Using ML to detect spills.md"
   ]
 }
