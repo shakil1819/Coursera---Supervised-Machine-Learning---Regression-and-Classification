@@ -25,26 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Syllabus.md",
+                "file": "Week 1/Module 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48bfc80c7149de64",
+            "id": "bba6b16c97d2b77b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Syllabus.md",
+                "file": "Week 1/Overview of Machine Learning/0.Welcome to machine learning !.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36b5fdf11fe7c5ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb124dfcd9bf7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Overview of Machine Learning/3.Intake Survey.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reinforcement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Syllabus.md",
+                "file": "Week 1/Overview of Machine Learning/3.Intake Survey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Syllabus.md"
+                "file": "Week 1/Overview of Machine Learning/3.Intake Survey.md"
               }
             }
           },
@@ -211,11 +235,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17069eb41db3a74b",
+  "active": "3eb124dfcd9bf7b4",
   "lastOpenFiles": [
-    "Coursera-Supervised-Machine-Learning--Regression-and-Classification",
-    "Week 1/Untitled.md",
+    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221402.png",
+    "Week 1/Overview of Machine Learning/Untitled.md",
+    "Week 1/Overview of Machine Learning/3.Intake Survey.md",
+    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221207.png",
+    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221044.png",
+    "Week 1/Overview of Machine Learning/attachments",
+    "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
+    "Week 1/Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Week 1/Syllabus.md",
+    "Week 1/Overview of Machine Learning",
+    "Week 1/Module 1.md",
+    "Week 1/attachments/Pasted image 20230308193555.png",
+    "Untitled.canvas",
+    "Coursera-Supervised-Machine-Learning--Regression-and-Classification",
     "Week 1/attachments/Pasted image 20230308191104.png",
     "Week 1/attachments",
     "Details/Course.md",
@@ -237,27 +272,17 @@
     "Land Cover Gaofen Paper/Paper.md",
     "Day Planners/attachments/E‑Passport Online Registration Portal.pdf",
     "Day Planners/attachments/download-online-form.pdf",
-    "Day Planners/attachments/Gmail - Confirmation of submitted online registration (online payment).pdf",
     "Day Planners/attachments/Pasted image 20230306163006.png",
     "Day Planners/attachments/Pasted image 20230306155226.png",
-    "Day Planners/attachments/Pasted image 20230306155320.png",
-    "Day Planners/attachments/Pasted image 20230306160155.png",
-    "Day Planners/attachments/Pasted image 20230306160603.png",
     "Day Planners/Passport.md",
     "Day Planners/Day Planner-20230305.md",
     "Land Cover Gaofen Paper/Initial Meeting.md",
-    "Land Cover Gaofen Paper/attachments/Land_Cover_DeepLabV3_sent_by_ovi.pdf",
-    "Land Cover Gaofen Paper/attachments/LULC classification by semantic segmentation of.pdf",
     "URC-2023 🙂/Nvidia Jetson Nano.md",
     "URC-2023 🙂/Train A Model Under 3 Minutes.md",
     "URC-2023 🙂/Zed Cam And ROS.md",
     "URC-2023 🙂/Repo Links.md",
     "Day Planners/Day Planner-20230301.md",
     "AWS AI & ML scholarship program/3. Examples of machine learning/3.3 Using ML to detect spills.md",
-    "AWS AI & ML scholarship program/3. Examples of machine learning/3.2 Using ML to predict a book's genre.md",
-    "AWS AI & ML scholarship program/3. Examples of machine learning/3.1 Case studies that use machine learning.md",
-    "AWS AI & ML scholarship program/2. The five steps of machine learning/2.5 Model evaluation.md",
-    "AWS AI & ML scholarship program/2. The five steps of machine learning/2.4 Model training.md",
-    "AWS AI & ML scholarship program/2. The five steps of machine learning/2.1 Introduction to the five machine learning steps.md"
+    "AWS AI & ML scholarship program/3. Examples of machine learning/3.2 Using ML to predict a book's genre.md"
   ]
 }
