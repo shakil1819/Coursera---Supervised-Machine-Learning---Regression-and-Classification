@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/3.Unsupervised learning.md",
+                "file": "Week 1/Supervised Unsupervised Machine Learning/3.Unsupervised learning.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/4.Unsupervised learning.md",
+                "file": "Week 1/Supervised Unsupervised Machine Learning/4.Unsupervised learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d05f71005387c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Supervised Unsupervised Machine Learning/5.Jupyter Notebooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "855c81a741650fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Supervised Unsupervised Machine Learning/Python and Jupyter Notebooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60d8bb12e5fa0beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Practice quiz/Page 0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/4.Unsupervised learning.md",
+                "file": "Week 1/Practice quiz/Page 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/4.Unsupervised learning.md"
+                "file": "Week 1/Practice quiz/Page 0.md"
               }
             }
           },
@@ -199,42 +235,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58394e270d1d12ee",
+  "active": "17069eb41db3a74b",
   "lastOpenFiles": [
-    "Week 1/Supervised vs. Unsupervised Machine Learning/3.Unsupervised learning.md",
-    "Week 1/Supervised vs. Unsupervised Machine Learning/4.Unsupervised learning.md",
-    "Week 1/Supervised vs. Unsupervised Machine Learning/2.Supervised learning part 2.md",
+    "Week 1/Regression Model",
+    "Week 1/Practice quiz/attachments/Pasted image 20230310020246.png",
+    "Week 1/Practice quiz/attachments/Pasted image 20230310020219.png",
+    "Week 1/Practice quiz/attachments/Pasted image 20230310020110.png",
+    "Week 1/Practice quiz/attachments",
+    "Week 1/Supervised Unsupervised Machine Learning/Python and Jupyter Notebooks.md",
+    "Week 1/Practice quiz/Page 0.md",
+    "Week 1/Practice quiz",
+    "Week 1/Supervised Unsupervised Machine Learning/attachments/Pasted image 20230310015848.png",
     "Week 1/Overview of Machine Learning/3.Intake Survey.md",
+    "Week 1/Supervised Unsupervised Machine Learning/attachments/Pasted image 20230310015605.png",
+    "Week 1/Supervised Unsupervised Machine Learning/attachments/Pasted image 20230310015719.png",
+    "Week 1/Supervised Unsupervised Machine Learning/attachments",
+    "Week 1/Supervised Unsupervised Machine Learning/5.Jupyter Notebooks.md",
+    "Week 1/Supervised Unsupervised Machine Learning/4.Unsupervised learning.md",
+    "Week 1/Supervised Unsupervised Machine Learning/3.Unsupervised learning.md",
+    "Week 1/Supervised Unsupervised Machine Learning/2.Supervised learning part 2.md",
     "Pasted image 20230309094424.png.md",
     "attachments/Pasted image 20230309101741.png",
     "attachments",
     "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094139.png",
     "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094150.png",
     "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094231.png",
-    "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094424.png",
-    "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
+    "Week 1/Supervised Unsupervised Machine Learning/1.Supervised learning part 1.md",
     "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
-    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230309094216.png",
-    "Week 1/Supervised vs. Unsupervised Machine Learning/attachments",
     "Week 1/C1_W1.pdf",
-    "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
+    "Week 1/Supervised Unsupervised Machine Learning/0.What is machine learning.md",
     "Week 1/Module 1.md",
-    "Week 1/Supervised vs. Unsupervised Machine Learning",
+    "Week 1/Supervised Unsupervised Machine Learning",
     "Details/Course.md",
-    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221402.png",
     "Week 1/Overview of Machine Learning/Untitled.md",
-    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221207.png",
-    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221044.png",
     "Week 1/Overview of Machine Learning/attachments",
     "Week 1/Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Week 1/Syllabus.md",
     "Week 1/Overview of Machine Learning",
-    "Week 1/attachments/Pasted image 20230308193555.png",
     "Untitled.canvas",
     "Coursera-Supervised-Machine-Learning--Regression-and-Classification",
     "Week 1/attachments",
-    "Week 1",
-    "Details/attachments",
     "Untitled/Untitled.md",
     "Day Planners/Day Planner-20230308.md",
     "Day Planners/Day Planner-20230307.md",
@@ -243,10 +283,6 @@
     "Day Planners/Day Planner-20230306.md",
     "Land Cover Gaofen Paper/Literature review.md",
     "Land Cover Gaofen Paper/Paper.md",
-    "Day Planners/Passport.md",
-    "Day Planners/Day Planner-20230305.md",
-    "Land Cover Gaofen Paper/Initial Meeting.md",
-    "URC-2023 🙂/Nvidia Jetson Nano.md",
-    "URC-2023 🙂/Train A Model Under 3 Minutes.md"
+    "Day Planners/Passport.md"
   ]
 }
