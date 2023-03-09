@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fe74447f890ff5cf",
+        "id": "d83ab8cec6aa9abb",
         "type": "tabs",
         "children": [
           {
-            "id": "22f7fb257ef3f7e7",
+            "id": "a2fd6f3462682fad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc322c26412fb30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dc12381ce1a7f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Module 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 480.5
   },
   "right": {
     "id": "c5a2767459af39e7",
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Module 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Week 1/Module 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,14 +179,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17069eb41db3a74b",
+  "active": "a2fd6f3462682fad",
   "lastOpenFiles": [
-    "Week 1/Supervised vs. Unsupervised Machine Learning/2.Supervised learning part 2.md",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094139.png",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094150.png",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094231.png",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/attachments/Pasted image 20230309094424.png",
     "Week 1/Supervised vs. Unsupervised Machine Learning/1.Supervised learning part 1.md",
-    "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
-    "Week 1/C1_W1.pdf",
-    "Week 1/Supervised vs. Unsupervised Machine Learning",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/2.Supervised learning part 2.md",
     "Week 1/Overview of Machine Learning/1.Applications of machine learning.md",
+    "Week 1/Overview of Machine Learning/attachments/Pasted image 20230309094216.png",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/attachments",
+    "Week 1/C1_W1.pdf",
+    "Week 1/Supervised vs. Unsupervised Machine Learning/0.What is machine learning.md",
+    "Week 1/Module 1.md",
+    "Week 1/Supervised vs. Unsupervised Machine Learning",
     "Details/Course.md",
     "Week 1/Overview of Machine Learning/3.Intake Survey.md",
     "Week 1/Overview of Machine Learning/attachments/Pasted image 20230308221402.png",
@@ -229,36 +204,28 @@
     "Week 1/Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Week 1/Syllabus.md",
     "Week 1/Overview of Machine Learning",
-    "Week 1/Module 1.md",
     "Week 1/attachments/Pasted image 20230308193555.png",
     "Untitled.canvas",
     "Coursera-Supervised-Machine-Learning--Regression-and-Classification",
     "Week 1/attachments/Pasted image 20230308191104.png",
     "Week 1/attachments",
     "Week 1",
-    "Details/attachments/Pasted image 20230308191000.png",
     "Details/attachments",
     "Untitled/Untitled.md",
     "Details",
     "Day Planners/Day Planner-20230308.md",
-    "Day Planners",
     "Day Planners/Day Planner-20230307.md",
     "Resource Collections/Backup February - 2023.md",
     "URC-2023 🙂/Sequel.md",
-    "URC-2023 🙂/attachments/Pasted image 20230307203732.png",
-    "URC-2023 🙂/attachments/Pasted image 20230307203531.png",
     "Day Planners/Day Planner-20230306.md",
-    "Day Planners/attachments/Pasted image 20230306162953.png",
     "Land Cover Gaofen Paper/Literature review.md",
     "Land Cover Gaofen Paper/Paper.md",
-    "Day Planners/attachments/Pasted image 20230306163006.png",
     "Day Planners/Passport.md",
     "Day Planners/Day Planner-20230305.md",
     "Land Cover Gaofen Paper/Initial Meeting.md",
     "URC-2023 🙂/Nvidia Jetson Nano.md",
     "URC-2023 🙂/Train A Model Under 3 Minutes.md",
     "URC-2023 🙂/Zed Cam And ROS.md",
-    "URC-2023 🙂/Repo Links.md",
-    "Day Planners/Day Planner-20230301.md"
+    "URC-2023 🙂/Repo Links.md"
   ]
 }
