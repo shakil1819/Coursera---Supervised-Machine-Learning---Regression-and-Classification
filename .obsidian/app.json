@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "autoConvertHtml": true,
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "./",
   "showUnsupportedFiles": true,
   "trashOption": "system",
   "alwaysUpdateLinks": true,
