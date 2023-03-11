@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a546cbd14b33b496",
+        "id": "c9cc6f18eea112ad",
         "type": "tabs",
         "children": [
           {
-            "id": "23c2c25df096fe89",
+            "id": "97287d659ebc709a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c5a2767459af39e7",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Week 1/3.Regression Model/6.Optional lab - Cost function.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,15 +179,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23c2c25df096fe89",
+  "active": "17069eb41db3a74b",
   "lastOpenFiles": [
+    "Week 1/1.Supervised Unsupervised Machine Learning/Pasted image 20230309094424.png.md",
+    "Pasted image 20230310015848.png.md",
+    "Week 1/Syllabus.md",
+    "Week 1/4.Practice quiz - Regression.md",
+    "Week 1/attachments/Pasted image 20230311163410.png",
+    "Week 1/attachments/Pasted image 20230311163227.png",
+    "Week 1/attachments/Pasted image 20230311135511.png",
+    "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
     "Week 1/3.Regression Model/attachments/screencapture.pdf",
     "Week 1/3.Regression Model/attachments/screencapture-coursera-org-learn-machine-learning-ungradedLab-udPHh-optional-lab-cost-function-lab-2023-03-11-13_47_35.pdf",
     "Week 1/3.Regression Model/attachments/Pasted image 20230311133903.png",
     "Week 1/3.Regression Model/attachments/C1_W1_Lab03_Cost_function_Soln.ipynb",
     "Week 1/3.Regression Model/attachments/Pasted image 20230311133746.png",
     "Week 1/3.Regression Model/5.Visualization examples.md",
-    "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
     "Week 1/3.Regression Model/4.Visualizing the cost function.md",
     "Week 1/3.Regression Model/3.Cost Function Intuition.md",
     "Week 1/3.Regression Model/attachments/Pasted image 20230311115727.png",
@@ -204,27 +203,20 @@
     "Week 1/3.Regression Model/attachments/Pasted image 20230311114549.png",
     "Week 1/attachments/Pasted image 20230308191104.png",
     "Week 1/3.Regression Model/2.Cost function formula.md",
-    "Week 1/3.Regression Model/attachments/Pasted image 20230311114115.png",
-    "Week 1/3.Regression Model/attachments/Pasted image 20230311114009.png",
     "Week 1/3.Regression Model/1-1 Lab - Model representation.md",
     "Week 1/3.Regression Model/1.Linear regression model part 2.md",
     "Week 1/3.Regression Model/0.Linear regression model part 1.md",
     "Week 1/3.Regression Model/attachments/C1_W1_Lab02_Model_Representation_Soln.ipynb",
     "Week 1/3.Regression Model/attachments/ScreenRecorderProject1.mp4",
-    "Week 1/3.Regression Model/attachments/Pasted image 20230310124353.png",
     "Week 1/3.Regression Model/attachments",
-    "Pasted image 20230309094424.png.md",
-    "Pasted image 20230310015848.png.md",
     "Week 1/C1_W1.pdf",
     "Week 1/1.Supervised Unsupervised Machine Learning/Python and Jupyter Notebooks.md",
     "Week 1/Module 1.md",
-    "Week 1/Syllabus.md",
     "Week 1/2.Practice quiz/Page 0.md",
     "Week 1/3.Regression Model",
     "Week 1/2.Practice quiz/attachments",
     "Week 1/2.Practice quiz",
     "Week 1/0.Overview of Machine Learning/3.Intake Survey.md",
-    "Week 1/Supervised Unsupervised Machine Learning/attachments",
     "Week 1/1.Supervised Unsupervised Machine Learning/5.Jupyter Notebooks.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/4.Unsupervised learning.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/3.Unsupervised learning.md",
@@ -234,7 +226,6 @@
     "Week 1/1.Supervised Unsupervised Machine Learning/0.What is machine learning.md",
     "Details/Course.md",
     "Week 1/Overview of Machine Learning/Untitled.md",
-    "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Untitled.canvas"
   ]
 }
