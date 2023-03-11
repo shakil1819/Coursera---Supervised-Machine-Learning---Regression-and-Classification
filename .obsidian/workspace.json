@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7977f69dc1b83b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/3.Regression Model/5.Visualization examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/3.Regression Model/4.Visualizing the cost function.md",
+                "file": "Week 1/3.Regression Model/5.Visualization examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/3.Regression Model/4.Visualizing the cost function.md"
+                "file": "Week 1/3.Regression Model/5.Visualization examples.md"
               }
             }
           },
@@ -199,10 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd31fd0843569f09",
+  "active": "7977f69dc1b83b62",
   "lastOpenFiles": [
-    "Week 1/3.Regression Model/3.Cost Function Intuition.md",
     "Week 1/3.Regression Model/4.Visualizing the cost function.md",
+    "Week 1/3.Regression Model/5.Visualization examples.md",
+    "Week 1/3.Regression Model/3.Cost Function Intuition.md",
     "Week 1/3.Regression Model/attachments/Pasted image 20230311115727.png",
     "Week 1/3.Regression Model/attachments/Pasted image 20230311115643.png",
     "Week 1/attachments/Pasted image 20230308193555.png",
@@ -246,7 +259,6 @@
     "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Untitled.canvas",
     "Untitled/Untitled.md",
-    "Day Planners/Day Planner-20230308.md",
-    "Day Planners/Day Planner-20230307.md"
+    "Day Planners/Day Planner-20230308.md"
   ]
 }
