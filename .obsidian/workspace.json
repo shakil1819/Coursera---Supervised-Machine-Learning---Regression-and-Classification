@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9dfb39bc0dce058b",
+            "id": "23c2c25df096fe89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/3.Regression Model/3.Cost Function Intuition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd31fd0843569f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/3.Regression Model/4.Visualizing the cost function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7977f69dc1b83b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/3.Regression Model/5.Visualization examples.md",
-                "mode": "source",
-                "source": false
+                "file": "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 469.5,
+    "collapsed": true
   },
   "right": {
     "id": "c5a2767459af39e7",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/3.Regression Model/5.Visualization examples.md",
+                "file": "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/3.Regression Model/5.Visualization examples.md"
+                "file": "Week 1/3.Regression Model/6.Optional lab - Cost function.md"
               }
             }
           },
@@ -211,10 +187,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7977f69dc1b83b62",
+  "active": "23c2c25df096fe89",
   "lastOpenFiles": [
-    "Week 1/3.Regression Model/4.Visualizing the cost function.md",
+    "Week 1/3.Regression Model/attachments/screencapture.pdf",
+    "Week 1/3.Regression Model/attachments/screencapture-coursera-org-learn-machine-learning-ungradedLab-udPHh-optional-lab-cost-function-lab-2023-03-11-13_47_35.pdf",
+    "Week 1/3.Regression Model/attachments/Pasted image 20230311133903.png",
+    "Week 1/3.Regression Model/attachments/C1_W1_Lab03_Cost_function_Soln.ipynb",
+    "Week 1/3.Regression Model/attachments/Pasted image 20230311133746.png",
     "Week 1/3.Regression Model/5.Visualization examples.md",
+    "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
+    "Week 1/3.Regression Model/4.Visualizing the cost function.md",
     "Week 1/3.Regression Model/3.Cost Function Intuition.md",
     "Week 1/3.Regression Model/attachments/Pasted image 20230311115727.png",
     "Week 1/3.Regression Model/attachments/Pasted image 20230311115643.png",
@@ -230,8 +212,6 @@
     "Week 1/3.Regression Model/attachments/C1_W1_Lab02_Model_Representation_Soln.ipynb",
     "Week 1/3.Regression Model/attachments/ScreenRecorderProject1.mp4",
     "Week 1/3.Regression Model/attachments/Pasted image 20230310124353.png",
-    "Week 1/3.Regression Model/attachments/Pasted image 20230310124158.png",
-    "Week 1/3.Regression Model/attachments/Pasted image 20230310124148.png",
     "Week 1/3.Regression Model/attachments",
     "Pasted image 20230309094424.png.md",
     "Pasted image 20230310015848.png.md",
@@ -249,16 +229,12 @@
     "Week 1/1.Supervised Unsupervised Machine Learning/4.Unsupervised learning.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/3.Unsupervised learning.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/2.Supervised learning part 2.md",
-    "attachments",
     "Week 1/1.Supervised Unsupervised Machine Learning/1.Supervised learning part 1.md",
     "Week 1/0.Overview of Machine Learning/1.Applications of machine learning.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/0.What is machine learning.md",
-    "Week 1/1.Supervised Unsupervised Machine Learning",
     "Details/Course.md",
     "Week 1/Overview of Machine Learning/Untitled.md",
     "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
-    "Untitled.canvas",
-    "Untitled/Untitled.md",
-    "Day Planners/Day Planner-20230308.md"
+    "Untitled.canvas"
   ]
 }
