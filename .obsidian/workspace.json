@@ -23,16 +23,26 @@
             "id": "7db3a765a27a7a69",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Week 2 - Module 2/attachments/C1_W2.pdf"
+              }
+            }
+          },
+          {
+            "id": "616f7ecc3f519f86",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md",
-                "mode": "source",
+                "file": "Week 2 - Module 2/0.Multiple linear regression/1.Vectorization part 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md",
+                "file": "Week 2 - Module 2/0.Multiple linear regression/1.Vectorization part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md"
+                "file": "Week 2 - Module 2/0.Multiple linear regression/1.Vectorization part 1.md"
               }
             }
           },
@@ -199,12 +209,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7db3a765a27a7a69",
+  "active": "616f7ecc3f519f86",
   "lastOpenFiles": [
-    "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
+    "Week 2 - Module 2/0.Multiple linear regression/2.Vectorization part 1.webm",
     "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md",
-    "Week 2 - Module 2/Regression with multiple input variables.md",
+    "Week 2 - Module 2/0.Multiple linear regression/1.Multiple features.webm",
+    "Week 2 - Module 2/0.Multiple linear regression/1.Vectorization part 1.md",
     "Week 2 - Module 2/attachments/C1_W2.pdf",
+    "Week 2 - Module 2/Regression with multiple input variables.md",
+    "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323024737.png",
+    "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323024548.png",
+    "Week 2 - Module 2/0.Multiple linear regression/attachments/Pasted image 20230323024523.png",
+    "Week 2 - Module 2/0.Multiple linear regression/attachments/Pasted image 20230323024504.png",
+    "Week 2 - Module 2/0.Multiple linear regression/attachments",
+    "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Week 2 - Module 2/0.Multiple linear regression",
     "Week 2 - Module 2/attachments/Pasted image 20230316214917.png",
     "Week 2 - Module 2/attachments",
@@ -223,19 +241,13 @@
     "Week 1/5.Train the model with gradient descent/4.for linear regression.md",
     "Week 1/5.Train the model with gradient descent/screencapture.pdf",
     "Week 1/5.Train the model with gradient descent/C1_W1_Lab04_Soln.ipynb",
-    "Week 1/5.Train the model with gradient descent/Pasted image 20230312022542.png",
     "Week 1/5.Train the model with gradient descent/5.Running gradient descent.md",
     "Week 1/5.Train the model with gradient descent/3.Learning rate.md",
     "Week 1/5.Train the model with gradient descent/2.Gradient descent intuition.md",
-    "Week 1/5.Train the model with gradient descent/Pasted image 20230312020528.png",
-    "Week 1/5.Train the model with gradient descent/Pasted image 20230312020441.png",
-    "Week 1/5.Train the model with gradient descent/attachments/Pasted image 20230312020413.png",
     "Week 1/5.Train the model with gradient descent/1.Implementing gradient descent.md",
     "Week 1/5.Train the model with gradient descent/attachments/Pasted image 20230312012524.png.md",
     "Week 1/5.Train the model with gradient descent/attachments/Pasted image 20230312012845.png.md",
     "Week 1/5.Train the model with gradient descent/0.Gradient descent.md",
-    "Week 1/5.Train the model with gradient descent/attachments",
-    "Week 1/5.Train the model with gradient descent/attachments",
     "Week 1/4. Quiz on regression and cost function/4.Practice quiz - Regression.md",
     "Pasted image 20230310015848.png.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/Pasted image 20230309094424.png.md",
@@ -245,7 +257,6 @@
     "Week 1/3.Regression Model/4.Visualizing the cost function.md",
     "Week 1/3.Regression Model/3.Cost Function Intuition.md",
     "Week 1/3.Regression Model/2.Cost function formula.md",
-    "Week 1/3.Regression Model/1-1 Lab - Model representation.md",
     "Untitled.canvas"
   ]
 }
