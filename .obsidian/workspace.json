@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0dee4ccc50ab3b0",
+            "id": "15cb132b6540a6a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/Vectorization part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a89ccf4d5d0e5d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 2 - Module 2/Optional lab.md",
+                "file": "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2 - Module 2/Optional lab.md",
+                "file": "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2 - Module 2/Optional lab.md"
+                "file": "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md"
               }
             }
           },
@@ -199,13 +186,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a89ccf4d5d0e5d0a",
+  "active": "17069eb41db3a74b",
   "lastOpenFiles": [
+    "Week 2 - Module 2/0.Multiple linear regression/C1_W2_Lab02.ipynb",
+    "Week 2 - Module 2/0.Multiple linear regression/3. Vectorization part 2.md",
+    "Week 2 - Module 2/0.Multiple linear regression/3.Vectorization part 2.webm",
+    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
+    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient.webm",
+    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent for multiple linear regression.webm",
+    "Week 2 - Module 2/0.Multiple linear regression/Optional lab.md",
+    "Week 2 - Module 2/Optional lab 1.md",
     "Week 2 - Module 2/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb",
     "Week 2 - Module 2/0.Multiple linear regression/Vectorization part 2.md",
-    "Week 2 - Module 2/Optional lab.md",
     "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323235639.png",
-    "Week 2 - Module 2/0.Multiple linear regression/3.Vectorization part 2.webm",
     "Week 2 - Module 2/0.Multiple linear regression/1.Vectorization part 1.md",
     "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323234711.png",
     "Week 2 - Module 2/0.Multiple linear regression/2.Vectorization part 1.webm",
@@ -226,12 +219,9 @@
     "Week 2 - Module 2/Pasted image 20230316214809.png",
     "Week 1/0.Overview of Machine Learning/1.Applications of machine learning.md",
     "Another ML course/CSE19.md",
-    "Week 2 - Module 2",
     "Another ML course/Pasted image 20230316012549.png",
-    "Another ML course",
     "Week 1/5.Train the model with gradient descent/Lab Gradient descent.md",
     "Week 1/6.Practice quize - Gradient Descent/Page.md",
-    "Week 1/6.Practice quize - Gradient Descent",
     "Week 1/5.Train the model with gradient descent/4.for linear regression.md",
     "Week 1/5.Train the model with gradient descent/5.Running gradient descent.md",
     "Week 1/5.Train the model with gradient descent/3.Learning rate.md",
@@ -244,9 +234,6 @@
     "Pasted image 20230310015848.png.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/Pasted image 20230309094424.png.md",
     "Week 1/Syllabus.md",
-    "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
-    "Week 1/3.Regression Model/5.Visualization examples.md",
-    "Week 1/3.Regression Model/4.Visualizing the cost function.md",
     "Untitled.canvas"
   ]
 }
