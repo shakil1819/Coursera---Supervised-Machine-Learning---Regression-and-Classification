@@ -11,11 +11,9 @@
             "id": "15cb132b6540a6a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
-                "mode": "source",
-                "source": false
+                "file": "Week 2 - Module 2/attachments/Pasted image 20230316214917.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
+                "file": "Week 2 - Module 2/attachments/Pasted image 20230316214917.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md"
+                "file": "Week 2 - Module 2/attachments/Pasted image 20230316214917.png"
               }
             }
           },
@@ -186,12 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17069eb41db3a74b",
+  "active": "15cb132b6540a6a0",
   "lastOpenFiles": [
+    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
     "Week 2 - Module 2/0.Multiple linear regression/C1_W2_Lab02.ipynb",
     "Week 2 - Module 2/0.Multiple linear regression/3. Vectorization part 2.md",
     "Week 2 - Module 2/0.Multiple linear regression/3.Vectorization part 2.webm",
-    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
     "Week 2 - Module 2/0.Multiple linear regression/4.Gradient.webm",
     "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent for multiple linear regression.webm",
     "Week 2 - Module 2/0.Multiple linear regression/Optional lab.md",
@@ -214,7 +212,6 @@
     "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
     "Week 2 - Module 2/0.Multiple linear regression",
     "Week 2 - Module 2/attachments/Pasted image 20230316214917.png",
-    "Week 2 - Module 2/attachments",
     "Week 2 - Module 2/Pasted image 20230316214846.png",
     "Week 2 - Module 2/Pasted image 20230316214809.png",
     "Week 1/0.Overview of Machine Learning/1.Applications of machine learning.md",
