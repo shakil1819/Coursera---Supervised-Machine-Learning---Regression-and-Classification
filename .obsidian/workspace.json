@@ -11,9 +11,11 @@
             "id": "15cb132b6540a6a0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Week 2 - Module 2/attachments/Pasted image 20230316214917.png"
+                "file": "Week 2 - Module 2/0.Multiple linear regression/Quiz.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2 - Module 2/attachments/Pasted image 20230316214917.png",
+                "file": "Week 2 - Module 2/0.Multiple linear regression/Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2 - Module 2/attachments/Pasted image 20230316214917.png"
+                "file": "Week 2 - Module 2/0.Multiple linear regression/Quiz.md"
               }
             }
           },
@@ -186,6 +188,16 @@
   },
   "active": "15cb132b6540a6a0",
   "lastOpenFiles": [
+    "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230330072607.png",
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/quiz.md",
+    "Week 2 - Module 2/0.Multiple linear regression/Quiz.md",
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072553.png",
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Untitled.md",
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072508.png",
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072504.png",
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072447.png",
+    "Week 2 - Module 2/attachments/Pasted image 20230316214917.png",
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression",
     "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
     "Week 2 - Module 2/0.Multiple linear regression/C1_W2_Lab02.ipynb",
     "Week 2 - Module 2/0.Multiple linear regression/3. Vectorization part 2.md",
@@ -207,16 +219,10 @@
     "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323024737.png",
     "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323024548.png",
     "Week 2 - Module 2/0.Multiple linear regression/attachments/Pasted image 20230323024523.png",
-    "Week 2 - Module 2/0.Multiple linear regression/attachments/Pasted image 20230323024504.png",
     "Week 2 - Module 2/0.Multiple linear regression/attachments",
     "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
-    "Week 2 - Module 2/0.Multiple linear regression",
-    "Week 2 - Module 2/attachments/Pasted image 20230316214917.png",
-    "Week 2 - Module 2/Pasted image 20230316214846.png",
-    "Week 2 - Module 2/Pasted image 20230316214809.png",
     "Week 1/0.Overview of Machine Learning/1.Applications of machine learning.md",
     "Another ML course/CSE19.md",
-    "Another ML course/Pasted image 20230316012549.png",
     "Week 1/5.Train the model with gradient descent/Lab Gradient descent.md",
     "Week 1/6.Practice quize - Gradient Descent/Page.md",
     "Week 1/5.Train the model with gradient descent/4.for linear regression.md",
@@ -228,9 +234,6 @@
     "Week 1/5.Train the model with gradient descent/attachments/Pasted image 20230312012845.png.md",
     "Week 1/5.Train the model with gradient descent/0.Gradient descent.md",
     "Week 1/4. Quiz on regression and cost function/4.Practice quiz - Regression.md",
-    "Pasted image 20230310015848.png.md",
-    "Week 1/1.Supervised Unsupervised Machine Learning/Pasted image 20230309094424.png.md",
-    "Week 1/Syllabus.md",
     "Untitled.canvas"
   ]
 }
