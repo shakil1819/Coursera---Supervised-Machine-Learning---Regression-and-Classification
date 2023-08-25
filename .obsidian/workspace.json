@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/Quiz.md",
+                "file": "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "493618e52c53015f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2 - Module 2/1.Gradient Descent in Practice/7 Lab Assignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a4716fc3306ecf2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/Quiz.md",
+                "file": "Week 2 - Module 2/1.Gradient Descent in Practice/7 Lab Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2 - Module 2/0.Multiple linear regression/Quiz.md"
+                "file": "Week 2 - Module 2/1.Gradient Descent in Practice/7 Lab Assignment.md"
               }
             }
           },
@@ -186,54 +207,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15cb132b6540a6a0",
+  "active": "493618e52c53015f",
   "lastOpenFiles": [
+    "Week 2 - Module 2/1.Gradient Descent in Practice/Unconfirmed 604867.crdownload",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/attachments/C1_W2_Linear_Regression.ipynb",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/attachments/Unconfirmed 286309.crdownload",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/C1_W2_Linear_Regression.html",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/Unconfirmed 969125.crdownload",
+    "Week 2 - Module 2/2. Practice Quiz/Quiz.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/7 Lab Assignment.md",
+    "Week 2 - Module 2/2. Practice Quiz/Pasted image 20230825130138.png",
+    "Week 2 - Module 2/2. Practice Quiz/attachments/screencapture.pdf",
+    "Week 2 - Module 2/2. Practice Quiz/attachments/Unconfirmed 314395.crdownload",
+    "Week 2 - Module 2/2. Practice Quiz/attachments",
+    "Week 2 - Module 2/2. Practice Quiz/New folder",
+    "Week 2 - Module 2/2. Practice Quiz/Pasted image 20230825130029.png",
+    "Week 2 - Module 2/Regression with multiple input variables.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/6.1 Lab 2.md",
+    "Week 2 - Module 2/2. Practice Quiz",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/attachments/C1_W2_Lab05_Sklearn_GD_Soln.ipynb",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/6.2 C1_W2_Lab04.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/Pasted image 20230825123255.png",
+    "images/C1_W2_Lab07_FeatureEngLecture.PNG.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/6. Video 6.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/5.Video 5.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/4.1 Lab.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/4.2 C1_W2_Lab03.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/3.Video 4.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/2.Video 3.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/1.Video 2.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/0.Video 1.md",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/Pasted image 20230824004857.png",
+    "Week 2 - Module 2/1.Gradient Descent in Practice/Pasted image 20230824004851.png",
+    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
+    "Week 2 - Module 2/0.Multiple linear regression/Quiz.md",
     "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230330072607.png",
     "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/quiz.md",
-    "Week 2 - Module 2/0.Multiple linear regression/Quiz.md",
     "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072553.png",
     "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Untitled.md",
     "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072508.png",
     "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072504.png",
-    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072447.png",
-    "Week 2 - Module 2/attachments/Pasted image 20230316214917.png",
-    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression",
-    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent.md",
-    "Week 2 - Module 2/0.Multiple linear regression/C1_W2_Lab02.ipynb",
-    "Week 2 - Module 2/0.Multiple linear regression/3. Vectorization part 2.md",
-    "Week 2 - Module 2/0.Multiple linear regression/3.Vectorization part 2.webm",
-    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient.webm",
-    "Week 2 - Module 2/0.Multiple linear regression/4.Gradient descent for multiple linear regression.webm",
-    "Week 2 - Module 2/0.Multiple linear regression/Optional lab.md",
-    "Week 2 - Module 2/Optional lab 1.md",
-    "Week 2 - Module 2/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb",
-    "Week 2 - Module 2/0.Multiple linear regression/Vectorization part 2.md",
-    "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323235639.png",
-    "Week 2 - Module 2/0.Multiple linear regression/1.Vectorization part 1.md",
-    "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323234711.png",
-    "Week 2 - Module 2/0.Multiple linear regression/2.Vectorization part 1.webm",
-    "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md",
-    "Week 2 - Module 2/0.Multiple linear regression/1.Multiple features.webm",
-    "Week 2 - Module 2/attachments/C1_W2.pdf",
-    "Week 2 - Module 2/Regression with multiple input variables.md",
-    "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323024737.png",
-    "Week 2 - Module 2/0.Multiple linear regression/Pasted image 20230323024548.png",
-    "Week 2 - Module 2/0.Multiple linear regression/attachments/Pasted image 20230323024523.png",
-    "Week 2 - Module 2/0.Multiple linear regression/attachments",
-    "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
-    "Week 1/0.Overview of Machine Learning/1.Applications of machine learning.md",
-    "Another ML course/CSE19.md",
-    "Week 1/5.Train the model with gradient descent/Lab Gradient descent.md",
-    "Week 1/6.Practice quize - Gradient Descent/Page.md",
-    "Week 1/5.Train the model with gradient descent/4.for linear regression.md",
-    "Week 1/5.Train the model with gradient descent/5.Running gradient descent.md",
-    "Week 1/5.Train the model with gradient descent/3.Learning rate.md",
-    "Week 1/5.Train the model with gradient descent/2.Gradient descent intuition.md",
-    "Week 1/5.Train the model with gradient descent/1.Implementing gradient descent.md",
-    "Week 1/5.Train the model with gradient descent/attachments/Pasted image 20230312012524.png.md",
-    "Week 1/5.Train the model with gradient descent/attachments/Pasted image 20230312012845.png.md",
-    "Week 1/5.Train the model with gradient descent/0.Gradient descent.md",
-    "Week 1/4. Quiz on regression and cost function/4.Practice quiz - Regression.md",
-    "Untitled.canvas"
+    "Week 2 - Module 2/1.Practice quiz Multiple Linear Regression/Pasted image 20230330072447.png"
   ]
 }
