@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/1.Supervised Unsupervised Machine Learning/0.What is machine learning.md",
+                "file": "Week 1/5.Train the model with gradient descent/2.Gradient descent intuition.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/1.Supervised Unsupervised Machine Learning/0.What is machine learning.md",
+                "file": "Week 1/5.Train the model with gradient descent/2.Gradient descent intuition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/1.Supervised Unsupervised Machine Learning/0.What is machine learning.md"
+                "file": "Week 1/5.Train the model with gradient descent/2.Gradient descent intuition.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,50 +210,50 @@
   "active": "493618e52c53015f",
   "lastOpenFiles": [
     "Week 1/5.Train the model with gradient descent/0.Gradient descent.md",
-    "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md",
+    "Week 1/5.Train the model with gradient descent/Lab Gradient descent.md",
+    "Week 1/5.Train the model with gradient descent/5.Running gradient descent.md",
+    "Week 1/5.Train the model with gradient descent/4.for linear regression.md",
+    "Week 1/5.Train the model with gradient descent/3.Learning rate.md",
+    "Week 1/5.Train the model with gradient descent/2.Gradient descent intuition.md",
+    "Week 1/5.Train the model with gradient descent/1.Implementing gradient descent.md",
+    "Week 1/3.Regression Model/5.Visualization examples.md",
+    "Week 1/5.Train the model with gradient descent/attachments/index_4.mp4",
+    "Week 1/5.Train the model with gradient descent/attachments/index_5.mp4",
+    "Week 1/5.Train the model with gradient descent/attachments/index_3.mp4",
+    "Week 1/5.Train the model with gradient descent/attachments/index_2.mp4",
+    "Week 1/5.Train the model with gradient descent/attachments/index.mp4",
+    "Week 1/5.Train the model with gradient descent/attachments/index_6.mp4",
+    "Week 1/5.Train the model with gradient descent/attachments",
+    "Week 1/5.Train the model with gradient descent/New folder",
+    "Week 1/3.Regression Model/4.Visualizing the cost function.md",
+    "Week 1/3.Regression Model/3.Cost Function Intuition.md",
+    "Week 1/3.Regression Model/2.Cost function formula.md",
+    "Week 1/3.Regression Model/attachments/index_3.mp4",
+    "Week 1/3.Regression Model/attachments/index_5.mp4",
+    "Week 1/3.Regression Model/1.Linear regression model part 2.md",
+    "Week 1/3.Regression Model/0.Linear regression model part 1.md",
+    "Week 1/1.Supervised Unsupervised Machine Learning/5.Jupyter Notebooks.md",
+    "Week 1/1.Supervised Unsupervised Machine Learning/4.Unsupervised learning.md",
+    "Week 1/1.Supervised Unsupervised Machine Learning/3.Unsupervised learning.md",
+    "Week 1/1.Supervised Unsupervised Machine Learning/2.Supervised learning part 2.md",
+    "Week 1/1.Supervised Unsupervised Machine Learning/1.Supervised learning part 1.md",
     "Week 1/1.Supervised Unsupervised Machine Learning/0.What is machine learning.md",
+    "Week 1/0.Overview of Machine Learning/1.Applications of machine learning.md",
+    "Week 1/0.Overview of Machine Learning/0.Welcome to machine learning !.md",
+    "Week 1/0.Overview of Machine Learning/3.Intake Survey.md",
+    "Week 2 - Module 2/0.Multiple linear regression/0.Multiple features.md",
+    "Week 1/4. Quiz on regression and cost function/4.Practice quiz - Regression.md",
+    "Week 1/3.Regression Model/6.Optional lab - Cost function.md",
+    "Week 1/3.Regression Model/1-1 Lab - Model representation.md",
     "attachments/Pasted image 20230312012916.png",
     "attachments/Pasted image 20230312012645.png",
     "attachments/Pasted image 20230309101741.png",
-    "Week 3/10.Conversation with andrew/Untitled.md",
-    "Another ML course/CSE19.md",
     "Another ML course/Pasted image 20230316012549.png",
-    "Week 3/9.Practice Lab/Lab.md",
-    "Week 3/9.Practice Lab/C1_W3_Logistic_Regression.ipynb",
-    "Week 3/9.Practice Lab/Unconfirmed 762343.crdownload",
-    "Week 3/9.Practice Lab/C1_W3_Logistic_Regression.html",
-    "Week 3/9.Practice Lab/Unconfirmed 936041.crdownload",
-    "Week 3/8.Practice quiz/The problem of overfitting.md",
     "Week 3/8.Practice quiz/Pasted image 20230827222502.png",
-    "Week 3/7.The problem of overfitting/Lab-2.md",
-    "Week 3/7.The problem of overfitting/C1_W3_Lab09_Regularization_Soln.html",
-    "Week 3/7.The problem of overfitting/Unconfirmed 502821.crdownload",
-    "Week 3/7.The problem of overfitting/attachments/C1_W3_Lab09_Regularization_Soln.ipynb",
-    "Week 3/7.The problem of overfitting/attachments/Unconfirmed 809327.crdownload",
-    "Week 3/7.The problem of overfitting/lab-1.md",
-    "Week 3/7.The problem of overfitting/Video-5.md",
-    "Week 3/7.The problem of overfitting/attachments/index_5.mp4",
-    "Week 3/7.The problem of overfitting/Video-4.md",
-    "Week 3/7.The problem of overfitting/attachments/index_4.mp4",
-    "Week 3/7.The problem of overfitting/Video-3.md",
     "Week 3/7.The problem of overfitting/Pasted image 20230827221058.png",
-    "Week 3/7.The problem of overfitting/Video-2.md",
-    "Week 3/7.The problem of overfitting/Video-1.md",
     "Week 3/7.The problem of overfitting/Pasted image 20230827213712.png",
-    "Week 3/6.Practice Quiz/Quiz.md",
     "Week 3/6.Practice Quiz/Pasted image 20230827213359.png",
-    "Week 3/5.Gradient Descent for logistic regression/Lab-2.md",
-    "Week 3/5.Gradient Descent for logistic regression/Lab-1.md",
-    "Week 3/5.Gradient Descent for logistic regression/Video.md",
-    "Week 3/4.Practice quiz/Cost function for logistic regression.md",
     "Week 3/4.Practice quiz/Pasted image 20230827212053.png",
-    "Week 3/3.Cost function for logistic regression/Lab-1.md",
-    "Week 3/3.Cost function for logistic regression/Lab-2.md",
-    "Week 3/3.Cost function for logistic regression/Video-2.md",
-    "Week 3/3.Cost function for logistic regression/Pasted image 20230827200912.png",
-    "Week 3/3.Cost function for logistic regression/Video-1.md",
-    "Week 3/2.Practice quiz/Quiz.md",
-    "Week 3/1.Classification with logistic regression/Video-3.md",
-    "Week 3/1.Classification with logistic regression/Video-2.md"
+    "Week 3/3.Cost function for logistic regression/Pasted image 20230827200912.png"
   ]
 }
